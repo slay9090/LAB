@@ -3,7 +3,7 @@
 LikeABoss 2.0
 
 
-[Иллюстрация к проекту](https://github.com/slay9090/LAB/tree/master/Classes/img/1.png)
+[Иллюстрация к проекту](https://github.com/slay9090/LAB/raw/master/Classes/img/1.png)
 
 ![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
 
