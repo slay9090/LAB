@@ -5,8 +5,8 @@ LikeABoss 2.0
 
 ![Иллюстрация к проекту](https://github.com/slay9090/LAB/raw/master/Classes/img/1.png)
 ![Иллюстрация к проекту](https://github.com/slay9090/LAB/raw/master/Classes/img/2.png)
-![Иллюстрация к проекту](https://github.com/slay9090/LAB/raw/master/Classes/img/3.png)
 ![Иллюстрация к проекту](https://github.com/slay9090/LAB/raw/master/Classes/img/4.png)
+![Иллюстрация к проекту](https://github.com/slay9090/LAB/raw/master/Classes/img/3.png)
 ![Иллюстрация к проекту](https://github.com/slay9090/LAB/raw/master/Classes/img/5.png)
 ![Иллюстрация к проекту](https://github.com/slay9090/LAB/raw/master/Classes/img/6.png)
 ![Иллюстрация к проекту](https://github.com/slay9090/LAB/raw/master/Classes/img/7.png)
